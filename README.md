@@ -12,6 +12,7 @@ They assume a fresh install and that NetworkManager is in use.
 wget https://raw.githubusercontent.com/kokossas/wifi-connect-setup/main/wifi-connect-setup.sh
 chmod +x wifi-connect-setup.sh
 sudo ./wifi-connect-setup.sh
+```
 
 ### How it works
 
